@@ -1,0 +1,186 @@
+{
+  "bmc": [
+    [
+      "關鍵夥伴",
+      "Key partners",
+      "誰能補足能力？",
+      "Who complements your capabilities?"
+    ],
+    [
+      "關鍵活動",
+      "Key activities",
+      "什麼必須做好？",
+      "What must you do well?"
+    ],
+    [
+      "價值主張",
+      "Value proposition",
+      "為誰解決何種痛點？",
+      "Whose pain are you solving?"
+    ],
+    [
+      "顧客關係",
+      "Relationships",
+      "如何建立信任？",
+      "How do you build trust?"
+    ],
+    [
+      "目標客群",
+      "Segments",
+      "誰使用、誰付費？",
+      "Who uses it? Who pays?"
+    ],
+    [
+      "關鍵資源",
+      "Key resources",
+      "憑什麼交付價值？",
+      "What enables delivery?"
+    ],
+    [
+      "通路",
+      "Channels",
+      "如何觸及顧客？",
+      "How do you reach customers?"
+    ],
+    [
+      "成本結構",
+      "Cost structure",
+      "主要投入在哪裡？",
+      "Where do you invest?"
+    ],
+    [
+      "收益來源",
+      "Revenue streams",
+      "如何收費與續購？",
+      "How do you earn repeat revenue?"
+    ]
+  ],
+  "adopters": [
+    [
+      "創新者",
+      "Innovators",
+      "願意試驗與承擔風險。提供原型、測試場域與直接回饋管道。",
+      "Comfortable with experimentation and risk. Offer prototypes, test environments and direct feedback."
+    ],
+    [
+      "早期採用者",
+      "Early adopters",
+      "追求突破性價值。共同驗證關鍵情境，建立可參照的成功案例。",
+      "Seek breakthrough value. Co-create critical use cases and referenceable outcomes."
+    ],
+    [
+      "早期大眾",
+      "Early majority",
+      "看重可靠性與同儕證據。提供完整方案、導入支持與可信案例。",
+      "Need reliability and peer evidence. Deliver a whole solution, implementation support and references."
+    ],
+    [
+      "晚期大眾",
+      "Late majority",
+      "偏好成熟標準與低風險。降低導入難度，明確服務與價格。",
+      "Prefer mature standards and lower risk. Simplify adoption with clear service and pricing."
+    ],
+    [
+      "落後採用者",
+      "Laggards",
+      "傾向既有做法。透過相容性與低轉換成本降低改變阻力。",
+      "Favor existing practices. Reduce friction through compatibility and low switching costs."
+    ]
+  ],
+  "roles": {
+    "pm": {
+      "title": [
+        "Product Manager",
+        "Product Manager"
+      ],
+      "subtitle": [
+        "產品經理 · 做對的產品",
+        "Product manager · Build the right product"
+      ],
+      "q": [
+        "為誰解決什麼問題？",
+        "Whose problem are we solving?"
+      ],
+      "items": [
+        [
+          "價值主張與目標客群",
+          "Value proposition & target audience"
+        ],
+        [
+          "需求優先順序與產品方向",
+          "Priorities & product direction"
+        ],
+        [
+          "採用、留存與商業成果",
+          "Adoption, retention & business outcomes"
+        ]
+      ]
+    },
+    "pjm": {
+      "title": [
+        "Project Manager",
+        "Project Manager"
+      ],
+      "subtitle": [
+        "專案經理 · 把事情交付好",
+        "Project manager · Deliver the work well"
+      ],
+      "q": [
+        "如何在限制內完成交付？",
+        "How do we deliver within constraints?"
+      ],
+      "items": [
+        [
+          "範疇、時程與資源協調",
+          "Scope, timeline & resource coordination"
+        ],
+        [
+          "風險、依賴與溝通",
+          "Risks, dependencies & communication"
+        ],
+        [
+          "交付品質與里程碑",
+          "Delivery quality & milestones"
+        ]
+      ]
+    }
+  },
+  "modes": [
+    {
+      "z": "對話",
+      "e": "Chat",
+      "qz": "理解與探索",
+      "qe": "Understand & explore",
+      "dz": "透過問答釐清問題、比較選項與整理思考。",
+      "de": "Clarify a question, compare alternatives and structure your thinking.",
+      "iz": "一個問題／一段資料",
+      "ie": "A question or source material",
+      "oz": "解釋、摘要、方向",
+      "oe": "Explanation, summary or direction"
+    },
+    {
+      "z": "工作代理",
+      "e": "Work agent",
+      "qz": "完成界定好的任務",
+      "qe": "Complete a bounded task",
+      "dz": "把目標、資料、步驟與輸出格式交代清楚，再檢查產出。",
+      "de": "Specify a goal, inputs, steps and output format, then review the result.",
+      "iz": "目標＋資料＋驗收",
+      "ie": "Goal + inputs + acceptance",
+      "oz": "文件、簡報、試算表",
+      "oe": "Documents, slides or spreadsheets"
+    },
+    {
+      "z": "程式代理",
+      "e": "Coding agent",
+      "qz": "建置可運作的系統",
+      "qe": "Build a working system",
+      "dz": "以需求與限制引導實作，透過測試與人工檢視驗證功能。",
+      "de": "Guide implementation with requirements and constraints; validate with tests and human review.",
+      "iz": "需求＋限制＋測試條件",
+      "ie": "Requirements + constraints + checks",
+      "oz": "互動網站、App、程式",
+      "oe": "Interactive sites, apps or code"
+    }
+  ]
+}
